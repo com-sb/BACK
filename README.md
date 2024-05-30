@@ -6,4 +6,4 @@ we just start it.
 
 Anything will do.
 
-Kepp going.
+Keep going.
